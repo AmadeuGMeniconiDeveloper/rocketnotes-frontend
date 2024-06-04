@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "repository": "git@github.com-AmadeuGMeniconiDeveloper:AmadeuGMeniconiDeveloper/rocketnotes-api.git",
+  "repository": "git@github.com-AmadeuGMeniconiDeveloper:AmadeuGMeniconiDeveloper/rocketnotes-frontend.git",
   "author": "AmadeuGMeniconiDeveloper <amadevmeni@gmail.com>",
   "scripts": {
     "dev": "vite",
